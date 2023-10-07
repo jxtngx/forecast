@@ -24,7 +24,7 @@ Adaptations can be found in my collection of [lab repos](https://github.com/star
 
 `forecastlab.pages` should contain code for data apps built with streamlit.
 
-`forecastlab.conf` can assist with project, trainer, and sweep configurations.
+`forecastlab.config` can assist with project, trainer, and sweep configurations.
 
 ### Project Root
 
