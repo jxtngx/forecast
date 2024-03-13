@@ -14,7 +14,7 @@
 
 import torch
 
-from forecastlab.core.module import LabModule
+from forecast.core.module import LabModule
 
 
 def test_module_not_abstract():
