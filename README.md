@@ -2,7 +2,7 @@
 
 ## Overview
 
-Forecast Studio is a public template for artificial intelligence and machine learning research projects using Lightning AI's [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/).
+Forecast Studio is a public template for artificial intelligence and machine learning research projects using Lightning AI's [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/) on [Lightning Studios](https://lightning.ai/).
 
 
 ## Source Module
