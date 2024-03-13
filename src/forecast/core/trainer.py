@@ -25,7 +25,7 @@ from lightning.pytorch.profilers import Profiler, PyTorchProfiler
 from forecast import config
 
 
-class LabTrainer(pl.Trainer):
+class ForecastTrainer(pl.Trainer):
     def __init__(
         self,
         logger: Optional[Logger] = None,

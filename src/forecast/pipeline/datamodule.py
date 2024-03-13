@@ -12,7 +12,7 @@ PROJECTPATH = os.getcwd()
 NUMWORKERS = int(multiprocessing.cpu_count() // 2)
 
 
-class LabDataModule(LightningDataModule):
+class ForecastDataModule(LightningDataModule):
     def __init__(
         self,
         dataset: Dataset = LabDataset,

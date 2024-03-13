@@ -1,1 +1,1 @@
-from forecast.pipeline.datamodule import LabDataModule
+from forecast.pipeline.datamodule import ForecastDataModule
